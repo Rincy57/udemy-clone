@@ -1,7 +1,7 @@
-📚 Udemy Clone — Online Course Platform
-Created by Mohamed Ansif
+** Udemy Clone — Online Course Platform
+Created by Rincy Michele J
 
-This is a simple Udemy-inspired online course website built using HTML5 and basic CSS3. The goal of this project is to practice front-end web development fundamentals and demonstrate the ability to create a clean, responsive, user-friendly layout for an educational platform.
+This is a simple Udemy-inspired online course website built using HTML5 and basic CSS3. The goal of this project is to practice front-end web development fundamentals and showcase the ability to design a clean, responsive, and user-friendly layout for an educational platform.
 
 🚀 Features
 ✅ Responsive navigation bar with search functionality and user icons
@@ -14,13 +14,18 @@ This is a simple Udemy-inspired online course website built using HTML5 and basi
 ✅ Fully responsive design, optimized for desktops and mobile devices
 
 🛠 Technologies Used
-HTML5 — semantic and accessible structure
-CSS3 — styling, responsive layouts, hover effects
-Font Awesome — icons for nav and buttons
-Google Fonts — modern typography
+HTML5 — Semantic and accessible structure
 
+CSS3 — Styling, responsive layouts, hover effects
+
+Font Awesome — Icons for navigation and buttons
+
+Google Fonts — Clean and modern typography
 
 📂 Project Structure
+arduino
+Copy
+Edit
 project/
 ├── HTML/
 │   ├── index.html
@@ -34,18 +39,22 @@ project/
 │   ├── sale image.jpg
 │   ├── Recommended/
 │   ├── Popular/
-
 🎓 What I Learned
-Structuring pages with semantic HTML
-Styling layouts and components with plain CSS
-Designing reusable course cards and sections
-Creating responsive, mobile-friendly pages
-Building simple authentication and contact forms
+Structuring pages using semantic HTML
+
+Styling components and layouts with plain CSS
+
+Designing reusable course cards and content sections
+
+Creating responsive, mobile-friendly web pages
+
+Building basic forms for authentication and contact
 
 🙌 Author
-Mohamed Ansif
-Connect with me on LinkedIn: https://www.linkedin.com/in/mhdansif
-Check out more projects on GitHub: https://github.com/mhdansif
+Rincy Michele J
+Connect with me on LinkedIn
+Check out more of my projects on GitHub
 
 ⭐ Feedback
 If you like this project, please ⭐ the repo and share your feedback!
+Thank you for visiting and supporting my work! 😊**
